@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yadhira Sarmiento 
-- 👀 I'm interested in learning about Machine & Deep learning to optimize NLP processes
-- 🌱 I’m currently learning about automation with AI to reduce processes in micro and medium-sized companies
+- 👀 I'm interested in learning about LLM's, currently I make videos about GEN AI on social media
+- 🌱 I currently help small and medium-sized businesses streamline and automate their processes with AI
 - 💞️ I'm looking to collaborate on an application related to simplifying processes
 - 📫 How to reach me yadhirasarmiento@gmail.com
 - 📄 Medium (tech stuff)-> https://medium.com/@yadhirasar
